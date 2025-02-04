@@ -1,8 +1,6 @@
 <h1 align="center">✨ Dzzl ✨</h1>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNhZTh2aHV5YXA5NWpzaHZ1Nmszb3Bib3AyemNoMjN5OHU4a3pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" align="left">
   <strong>Welcome to my GitHub, **@MxIDzzl**!</strong>
-  <img src="[https://media.giphy.com/media/3o6Zt8S5hb1J1t0cQs/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNhZTh2aHV5YXA5NWpzaHZ1Nmszb3Bib3AyemNoMjN5OHU4a3pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif)" width="100" align="right">
 </p>
 
 ---
