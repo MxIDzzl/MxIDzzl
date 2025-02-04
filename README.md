@@ -1,51 +1,76 @@
-# 👋 About Me  
-Hi, I'm @MxIDzzl, a university student passionate about programming and software development.  
-I'm currently focused on improving my skills in **C++, Java, and Python**, with a strong interest in **Artificial Intelligence** and its real-world applications.  
+<h1 align="center">✨ Dzzl ✨</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI5j2Qe8KtZXaNq/giphy.gif" width="100" align="left">
+  <strong>Welcome to my GitHub, **@MxIDzzl**!</strong>
+  <img src="https://media.giphy.com/media/3o6Zt8S5hb1J1t0cQs/giphy.gif" width="100" align="right">
+</p>
 
-# 💡 Interests  
-- Software development and algorithms  
-- Problem-solving and coding challenges  
-- **Artificial Intelligence & Machine Learning**  
-- Data Science and Automation  
+---
 
-# 🚀 Skills & Learning  
-- 🔹 Programming languages: **C++, Java, Python**  
-- 🔹 Concepts: Data structures, algorithms, OOP, and software design  
-- 🔹 Version control: **Git & GitHub**  
-- 🔹 Currently working on: Small projects to apply my knowledge  
-- 🔹 Learning AI fundamentals and machine learning techniques  
+## 🚀 About Me
+👋 Hi, I'm **@MxIDzzl**, a university student passionate about **C++, Java, and Python**. I'm currently learning **Artificial Intelligence & Machine Learning** and working on exciting projects!
 
-# 🛠️ Projects & Work  
-- 🤖 Developing **basic AI models** and learning how to apply ML techniques  
-- 🔧 Building **automation scripts and data analysis tools**  
-- 💡 Exploring **competitive programming** to sharpen problem-solving skills  
+🔹 Passionate about solving complex problems with code  
+🔹 Interested in **AI research, automation, and software development**  
+🔹 Always looking to improve and contribute to open-source projects  
+🔹 Enthusiastic about **data structures, algorithms, and optimization techniques**  
+🔹 I edit my code using **Visual Studio Code**  
+🔹 I'm a big **fan of Nintendo**  
+🔹 I enjoy **ranking in games** like **Overwatch**, **Fortnite**, and others!
 
-# 📫 Contact & Social Media  
-- 🎥 YouTube: [L_0dx](https://www.youtube.com/@l_0dx)  
-- 🎮 Discord: **l_0dx**  
-- 🎭 TikTok: [@code.dzzl](https://www.tiktok.com/@code.dzzl)  
+---
 
-# ⚡ Fun Fact  
-I enjoy working on **AI-related projects** and constantly challenging myself to improve.  
-My goal is to become a **highly skilled AI developer**, focusing on **machine learning, deep learning, and automation**. 🚀  
+## 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" alt="C++, Java, Python" />
+</p>
 
-# 📚 Technologies I Plan to Learn  
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn  
-- **Data Science:** Pandas, NumPy, Matplotlib  
-- **Cloud & AI Deployment:** Google Cloud AI, AWS AI Services  
-- **Automation:** Python scripting for AI-driven tasks  
+---
 
-# 🔗 Favorite Resources & Tools  
-- **AI & ML Learning:** Coursera (Andrew Ng’s ML course), Kaggle, Fast.ai  
-- **Coding Practice:** LeetCode, Codeforces, HackerRank  
-- **Development Tools:** Jupyter Notebook, VS Code, GitHub  
+## 📂 Interesting Repositories
+<p align="center">
+  <a href="https://github.com/MxIDzzl/TheCodeHub-My-Projects-in-C-and-More">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=TheCodeHub-My-Projects-in-C-and-More&theme=radical"/>
+  </a>
+  <a href="https://github.com/MxIDzzl/ProjectBox-Full-Featured-C-and-Software-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=ProjectBox-Full-Featured-C-and-Software-Projects&theme=radical"/>
+  </a>
+</p>
 
-# 🎯 My Goals for This Year  
-✅ Build at least **3-5 AI projects** using Python  
-✅ Learn the fundamentals of **Machine Learning & Deep Learning**  
-✅ Improve problem-solving skills by solving **100+ coding challenges**  
-✅ Start contributing to **open-source AI projects**  
+---
 
-# 🚀 Final Thoughts  
-I’m committed to mastering **Artificial Intelligence** and leveraging it to solve real-world problems.  
-If you’re also passionate about AI, feel free to reach out—let’s learn and build together! 🤖🔥  
+## 🎯 Future Projects
+🔹 Build **AI-based applications** using Python & TensorFlow  
+🔹 Learn **Machine Learning algorithms** and Data Science  
+🔹 Contribute to **open-source AI projects**  
+🔹 Develop **automation scripts and intelligent bots**  
+🔹 Create **interactive web applications with AI integration**
+
+<p align="center">
+  <strong>Upcoming Repos:</strong>
+  <br>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=FutureRepo1&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=FutureRepo2&theme=radical" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MxIDzzl&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MxIDzzl&theme=radical"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.youtube.com/@l_0dx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@code.dzzl"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <br>
+  🎮 Discord: **l_0dx**
+</p>
+
+---
+<p align="center">🚀 Let's build and learn together! 🚀</p>
