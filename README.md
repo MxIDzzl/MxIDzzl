@@ -12,9 +12,7 @@
 🔹 Interested in **AI research, automation, and software development**  
 🔹 Always looking to improve and contribute to open-source projects  
 🔹 Enthusiastic about **data structures, algorithms, and optimization techniques**  
-🔹 I edit my code using **Visual Studio Code**  
-🔹 I'm a big **fan of Nintendo**  
-🔹 I enjoy **ranking in games** like **Overwatch**, **Fortnite**, and others!
+🔹 I edit my code using **Visual Studio Code**
 
 ---
 
