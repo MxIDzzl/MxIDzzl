@@ -1,6 +1,6 @@
 <h1 align="center">✨ Dzzl ✨</h1>
 <p align="center">
-  <strong>Welcome to my GitHub, **@MxIDzzl**!</strong>
+  <strong>Welcome to my GitHub, <b>@MxIDzzl</b>!</strong>
 </p>
 
 ---
@@ -53,8 +53,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MxIDzzl&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MxIDzzl&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MxIDzzl&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MxIDzzl&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -69,4 +69,5 @@
 </p>
 
 ---
+
 <p align="center">🚀 Let's build and learn together! 🚀</p>
