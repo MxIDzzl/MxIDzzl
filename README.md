@@ -1,73 +1,21 @@
-<h1 align="center">✨ Dzzl ✨</h1>
-<p align="center">
-  <strong>Welcome to my GitHub, <b>@MxIDzzl</b>!</strong>
-</p>
+# 💫 About Me:
+About Me:<br><br>👋 Hi, I'm @MxIDzzl<br><br>💻 Passionate about backend development with Python 🐍 and Java ☕<br><br>⚡ I build robust, scalable, and efficient systems<br><br>🧩 I love solving complex problems and optimizing software performance<br><br>🤖 Exploring AI & Machine Learning<br><br>🌐 Contributing to open-source projects<br><br>🚀 Always learning and improving my skills in software development
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jnDQYnfzdC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f_dzze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-dzul-enriquez-1b6a0634a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31902213) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@MxIDzzl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MxIDzzl) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MxIDzzl) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MxIDzzl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MxIDzzl&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MxIDzzl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MxIDzzl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MxIDzzl&icon=1&color=9)](https://visitcount.itsvg.in)
 
-<h2 align="center">🚀 About Me</h2>
-👋 Hi, I'm **@MxIDzzl**, a university student passionate about **C++, Java, and Python**. I'm currently learning **Artificial Intelligence & Machine Learning** and working on exciting projects!
-
-🔹 Passionate about solving complex problems with code  
-🔹 Interested in **AI research, automation, and software development**  
-🔹 Always looking to improve and contribute to open-source projects  
-🔹 Enthusiastic about **data structures, algorithms, and optimization techniques**  
-🔹 I edit my code using **Visual Studio Code**
-
----
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python" alt="C++, Java, Python" />
-</p>
-
----
-
-<h2 align="center">📂 Interesting Repositories</h2>
-<p align="center">
-  <a href="https://github.com/MxIDzzl/TheCodeHub-My-Projects-in-C-and-More">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=TheCodeHub-My-Projects-in-C-and-More&theme=radical"/>
-  </a>
-  <a href="https://github.com/MxIDzzl/ProjectBox-Full-Featured-C-and-Software-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=ProjectBox-Full-Featured-C-and-Software-Projects&theme=radical"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">🎯 Future Projects</h2>
-🔹 Build **AI-based applications** using Python & TensorFlow  
-🔹 Learn **Machine Learning algorithms** and Data Science  
-🔹 Contribute to **open-source AI projects**  
-🔹 Develop **automation scripts and intelligent bots**  
-🔹 Create **interactive web applications with AI integration**
-
-<p align="center">
-  <strong>Upcoming Repos:</strong>
-  <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=FutureRepo1&theme=radical" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MxIDzzl&repo=FutureRepo2&theme=radical" /></a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MxIDzzl&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MxIDzzl&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.tiktok.com"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <br>
-  🎮 Discord: **l_0dx**
-</p>
-
----
-
-<p align="center">🚀 Let's build and learn together! 🚀</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
