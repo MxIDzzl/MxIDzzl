@@ -24,8 +24,7 @@ Welcome to my GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=MxIDzzl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=MxIDzzl&theme=tokyonight&hide_border=false)
-## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://MxIDzzl.github.io/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jnDQYnfzdC)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f_dzze)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-dzul-enriquez-1b6a0634a)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31902213)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@MxIDzzl)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MxIDzzl)  [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MxIDzzl)  
+
 
 ## 🛣️ Roadmap / Future Projects
 - Build AI-based applications with Python & TensorFlow  
