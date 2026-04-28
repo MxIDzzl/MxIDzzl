@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>✨ Dzzl</h1>
-<h3>Backend Developer • Cloud & Scalable Systems • Mobile & Web Dev • AI Curious</h3>
+<h3>Backend Developer • Cloud & Scalable Systems • Mobile & Web Dev • AI Dev</h3>
 
 ---
 
