@@ -1,65 +1,86 @@
-# Hey, I'm Dzzl 👋
+<div align="center">
 
-### Backend Developer in Progress · Java · Spring Boot · Cloud Computing
+# Dzzl
 
-I'm a software development student focused on **backend engineering, databases, and cloud infrastructure**. I enjoy understanding how things work behind the scenes and building projects that turn ideas into something useful.
+### Backend Development · Java · Spring Boot · Cloud
 
-Currently working on strengthening my backend foundations, exploring open-source development, and building projects that help me grow as a developer.
+Building a strong foundation in backend engineering, databases, and cloud infrastructure.
 
----
+<br/>
 
-### 🧠 What I'm Up To
+<a href="https://github.com/MxIDzzl">
+  <img src="https://img.shields.io/badge/GitHub-MxIDzzl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://github.com/MxIDzzl?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
 
-- ☕ Learning **Java and Spring Boot** for backend development.
-- 🗄️ Exploring **PostgreSQL, SQL, and database design**.
-- 🐳 Learning **Docker and AWS** to understand deployment and cloud infrastructure.
-- 🔧 Interested in open-source contributions, developer tools, and software architecture.
-- 🎯 Working toward becoming a backend engineer and building experience with real-world projects.
-
-### 🛠️ Tech Stack
-
-**Currently focusing on**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,github,linux" alt="Java, Spring Boot, PostgreSQL, Docker, AWS, Git, GitHub and Linux" />
-</p>
-
-**Also exploring:** REST APIs, SQL, backend architecture, automation, and deployment workflows.
-
-### 🚀 Featured Projects
-
-#### 📊 AniList Stats
-A project that works with AniList data to generate personalized anime and manga statistics.
-
-- GraphQL API integration
-- Automated workflows with GitHub Actions
-- GitHub Pages deployment
-
-🔗 [View Repository](https://github.com/MxIDzzl/anilist-stats) · [Live Website](https://mxidzzl.github.io/anilist-stats/)
-
-#### 🧩 Open Source
-I've contributed a small bug fix to **Prism Launcher**, and I want to keep learning by contributing to projects I use and find interesting.
-
-🔗 [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
-
-### 📈 GitHub Activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MxIDzzl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MxIDzzl&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-### 🌱 Beyond Coding
-
-Outside of programming, I'm into rhythm games, music, anime, manga, and Japanese culture. I'm also studying Japanese and have a long-term goal of living and working in Japan.
-
-I believe the best way to improve is to stay curious, build things, and keep showing up.
+</div>
 
 ---
 
-### 🤝 Let's Connect
+## About
 
-- 💻 [GitHub](https://github.com/MxIDzzl)
-- 📊 [AniList Stats](https://mxidzzl.github.io/anilist-stats/)
+I'm a software development student focused on **backend engineering** and the systems that power applications behind the scenes. I'm currently strengthening my skills in Java, APIs, databases, and cloud technologies through structured learning and hands-on projects.
 
-*Always learning. Always building.*
+I value readable code, practical problem-solving, and understanding the fundamentals before reaching for complexity.
+
+## Current Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend Engineering</strong><br/>
+      Java · Spring Boot · REST API fundamentals
+    </td>
+    <td width="50%" valign="top">
+      <strong>Data & Persistence</strong><br/>
+      PostgreSQL · SQL · Relational database concepts
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Tools & Workflow</strong><br/>
+      Git · GitHub · Linux · Command line
+    </td>
+    <td width="50%" valign="top">
+      <strong>Cloud & Deployment</strong><br/>
+      Docker · AWS · Deployment fundamentals
+    </td>
+  </tr>
+</table>
+
+## Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,github,linux&theme=dark" alt="Java, Spring Boot, PostgreSQL, Docker, AWS, Git, GitHub and Linux"/>
+</p>
+
+<sub>My current learning priorities are Java, Spring Boot, SQL, and backend application design.</sub>
+
+## Selected Work
+
+### Open Source
+Interested in contributing to practical developer tools and learning from established codebases. I've made a small bug fix in Prism Launcher and want to continue building experience through open-source collaboration.
+
+[Explore my repositories →](https://github.com/MxIDzzl?tab=repositories)
+
+## GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MxIDzzl&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MxIDzzl&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+</div>
+
+---
+
+## Outside the Terminal
+
+Beyond software, I'm interested in music, rhythm games, and Japanese language and culture. Long term, I'd like to build an international career in software engineering.
+
+<div align="center">
+
+**Learn deliberately. Build consistently. Keep improving.**
+
+</div>
+
